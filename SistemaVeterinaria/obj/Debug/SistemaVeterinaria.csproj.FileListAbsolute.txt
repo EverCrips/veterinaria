@@ -1,0 +1,118 @@
+c:\users\deathgun\documents\visual studio 2013\Projects\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe.config
+c:\users\deathgun\documents\visual studio 2013\Projects\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe
+c:\users\deathgun\documents\visual studio 2013\Projects\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.pdb
+c:\users\deathgun\documents\visual studio 2013\Projects\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojResolveAssemblyReference.cache
+c:\users\deathgun\documents\visual studio 2013\Projects\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Administrador.Principal.resources
+c:\users\deathgun\documents\visual studio 2013\Projects\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Login.resources
+c:\users\deathgun\documents\visual studio 2013\Projects\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Properties.Resources.resources
+c:\users\deathgun\documents\visual studio 2013\Projects\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.GenerateResource.Cache
+c:\users\deathgun\documents\visual studio 2013\Projects\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.exe
+c:\users\deathgun\documents\visual studio 2013\Projects\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.pdb
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe.config
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.exe
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.pdb
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.pdb
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojResolveAssemblyReference.cache
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Administrador.CrearUsuarioNuevo.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Administrador.Ver_EliminarUsuario.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.AñadirMascota.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.Citas.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.Consulta.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.NuevoCliente.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.VerCitas.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.VerClientes.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.VerConsultas.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Login.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Properties.Resources.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.NuevaVacuna.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.Receta.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.RegistroVacunas.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.GenerateResource.Cache
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Administrador.PrincipalA.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.PrincipalS.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.PrincipalV.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Administrador.Modificar.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.RegistroConsultas.resources
+C:\Users\DeathGun\Desktop\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.ModificarMascota.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe.config
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.exe
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.pdb
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojResolveAssemblyReference.cache
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Administrador.CrearUsuarioNuevo.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Administrador.Modificar.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Administrador.PrincipalA.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Administrador.Ver_EliminarUsuario.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.AñadirMascota.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.Citas.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.Consulta.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.NuevoCliente.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.PrincipalS.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.VerCitas.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.VerClientes.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.VerConsultas.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Login.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Properties.Resources.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.ModificarMascota.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.NuevaVacuna.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.PrincipalV.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.Receta.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.RegistroConsultas.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.RegistroVacunas.resources
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.GenerateResource.Cache
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe
+E:\2 SEMESTRE TRABAJOS\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.pdb
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe.config
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.exe
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.pdb
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.pdb
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojResolveAssemblyReference.cache
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Administrador.CrearUsuarioNuevo.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Administrador.Modificar.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Administrador.PrincipalA.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Administrador.Ver_EliminarUsuario.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.AñadirMascota.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.Citas.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.Consulta.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.NuevoCliente.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.PrincipalS.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.VerCitas.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.VerClientes.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.VerConsultas.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Login.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Properties.Resources.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.ModificarMascota.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.NuevaVacuna.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.PrincipalV.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.Receta.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.RegistroConsultas.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.RegistroVacunas.resources
+D:\TRABAJOS 4 SEMESTRE AIEP\VETERINARIA KARIN\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.GenerateResource.Cache
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe.config
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.exe
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.pdb
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.exe
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\bin\Debug\SistemaVeterinaria.pdb
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csprojResolveAssemblyReference.cache
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Administrador.CrearUsuarioNuevo.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Administrador.Modificar.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Administrador.PrincipalA.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Administrador.Ver_EliminarUsuario.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.AñadirMascota.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.Citas.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.Consulta.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.NuevoCliente.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.PrincipalS.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.VerCitas.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.VerClientes.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Secretaria.VerConsultas.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Login.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Properties.Resources.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.ModificarMascota.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.NuevaVacuna.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.PrincipalV.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.Receta.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.RegistroConsultas.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.Veterinario.RegistroVacunas.resources
+C:\Users\DeathGun\Desktop\VETERINARIA KARIN-Kevin-Cristopher\SistemaVeterinaria\SistemaVeterinaria\obj\Debug\SistemaVeterinaria.csproj.GenerateResource.Cache

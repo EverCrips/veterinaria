@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{92D8F930-1C4D-4688-80BA-4B652820FD99}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SistemaVeterinaria</RootNamespace>
+    <AssemblyName>SistemaVeterinaria</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrador\Modificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Modificar.Designer.cs">
+      <DependentUpon>Modificar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases Normales\Cliente.cs" />
+    <Compile Include="Clases Normales\Mascota.cs" />
+    <Compile Include="Clases SQL\ConsultasAdministrador.cs" />
+    <Compile Include="Administrador\CrearUsuarioNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\CrearUsuarioNuevo.Designer.cs">
+      <DependentUpon>CrearUsuarioNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\PrincipalA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\PrincipalA.Designer.cs">
+      <DependentUpon>PrincipalA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Ver-EliminarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Ver-EliminarUsuario.Designer.cs">
+      <DependentUpon>Ver-EliminarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clases SQL\Conexion.cs" />
+    <Compile Include="Clases Normales\Usuario.cs" />
+    <Compile Include="Clases SQL\ConsultasSecretaria.cs" />
+    <Compile Include="Clases SQL\ConsultasVeterinario.cs" />
+    <Compile Include="Secretaria\AñadirMascota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Secretaria\AñadirMascota.Designer.cs">
+      <DependentUpon>AñadirMascota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Secretaria\Citas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Secretaria\Citas.Designer.cs">
+      <DependentUpon>Citas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Secretaria\Consulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Secretaria\Consulta.Designer.cs">
+      <DependentUpon>Consulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Secretaria\NuevoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Secretaria\NuevoCliente.Designer.cs">
+      <DependentUpon>NuevoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Secretaria\PrincipalS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Secretaria\PrincipalS.Designer.cs">
+      <DependentUpon>PrincipalS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Secretaria\VerCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Secretaria\VerCitas.Designer.cs">
+      <DependentUpon>VerCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Secretaria\VerClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Secretaria\VerClientes.Designer.cs">
+      <DependentUpon>VerClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Secretaria\VerConsultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Secretaria\VerConsultas.Designer.cs">
+      <DependentUpon>VerConsultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Varias\ConsultaGeneral.cs" />
+    <Compile Include="Varias\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Varias\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="veterinariaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>veterinariaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Veterinario\ModificarMascota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Veterinario\ModificarMascota.Designer.cs">
+      <DependentUpon>ModificarMascota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Veterinario\NuevaVacuna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Veterinario\NuevaVacuna.Designer.cs">
+      <DependentUpon>NuevaVacuna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Veterinario\PrincipalV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Veterinario\PrincipalV.Designer.cs">
+      <DependentUpon>PrincipalV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Veterinario\Receta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Veterinario\Receta.Designer.cs">
+      <DependentUpon>Receta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Veterinario\RegistroConsultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Veterinario\RegistroConsultas.Designer.cs">
+      <DependentUpon>RegistroConsultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Veterinario\RegistroVacunas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Veterinario\RegistroVacunas.Designer.cs">
+      <DependentUpon>RegistroVacunas.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Administrador\CrearUsuarioNuevo.resx">
+      <DependentUpon>CrearUsuarioNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Modificar.resx">
+      <DependentUpon>Modificar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\PrincipalA.resx">
+      <DependentUpon>PrincipalA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Ver-EliminarUsuario.resx">
+      <DependentUpon>Ver-EliminarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Secretaria\AñadirMascota.resx">
+      <DependentUpon>AñadirMascota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Secretaria\Citas.resx">
+      <DependentUpon>Citas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Secretaria\Consulta.resx">
+      <DependentUpon>Consulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Secretaria\NuevoCliente.resx">
+      <DependentUpon>NuevoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Secretaria\PrincipalS.resx">
+      <DependentUpon>PrincipalS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Secretaria\VerCitas.resx">
+      <DependentUpon>VerCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Secretaria\VerClientes.resx">
+      <DependentUpon>VerClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Secretaria\VerConsultas.resx">
+      <DependentUpon>VerConsultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Varias\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Veterinario\ModificarMascota.resx">
+      <DependentUpon>ModificarMascota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Veterinario\NuevaVacuna.resx">
+      <DependentUpon>NuevaVacuna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Veterinario\PrincipalV.resx">
+      <DependentUpon>PrincipalV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Veterinario\Receta.resx">
+      <DependentUpon>Receta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Veterinario\RegistroConsultas.resx">
+      <DependentUpon>RegistroConsultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Veterinario\RegistroVacunas.resx">
+      <DependentUpon>RegistroVacunas.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="veterinariaDataSet.xsc">
+      <DependentUpon>veterinariaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="veterinariaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>veterinariaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="veterinariaDataSet.xss">
+      <DependentUpon>veterinariaDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_3530.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\1600 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\block realizado 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Registro Trabajadores 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Cerrar Session 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Agregar Cliente 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\PRINCIPAL ADMINISTRADOR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Volver 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Editar usuario 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Eliminar Trabajador 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\cuadro de borde para letras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\VER ELIMINARUSUARIO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Actualizar Datos Trabajador 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Actualizar Datos Trabajador 2 FINAL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Buscar 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\MODIFICAR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Borrar 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Borrar 2 final.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\CrearUsuarioNuevo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Nueva Consulta 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Datos Trabajador 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Agendar Cita 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Ver Citas 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\PRINCIPAL SECRETARIA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Registrar Cita 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Citas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Agregar Cliente 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Agregar Mascota 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Agregar 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\VerCliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\NuevoCliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\AñadirMascota.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\VerCitas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Consulta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\VerConsulta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Ingresar 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Salir del programa 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\LOGIN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Registro Vacunas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Receta 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\PrincipalV.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Actualizar Mascota.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\RegistarConsultas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Modificar Mascota.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Nueva Vacuna 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\RegistroVacunas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\NuevaVacuna.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Imprimir 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="img\Receta.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
